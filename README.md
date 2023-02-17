@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I am Louis Lu, major in economics and finance.
 - 🌱 I’m currently learning machine learning and data analysis.
 
 
