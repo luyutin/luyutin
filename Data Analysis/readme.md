@@ -1,4 +1,4 @@
 Data Analysis
 ===
-EDA,Rrgression, Machine Learning
+EDA, Rrgression, Machine Learning
 
