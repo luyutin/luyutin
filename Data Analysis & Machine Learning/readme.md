@@ -1,4 +1,4 @@
-Data Analysis
+Data Analysis & Machine Learning
 ===
 EDA, Rrgression, Machine Learning
 
