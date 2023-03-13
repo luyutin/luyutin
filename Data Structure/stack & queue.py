@@ -11,7 +11,7 @@ def main(struct, input_file, output_file):
 	input = open(input_file)
 	output = open(output_file, 'a')
 
-	# TODO: your should parse the input commands here
+	# parse the input commands here
 	line = input.readline()
 	while line:
 		line = line.split()
