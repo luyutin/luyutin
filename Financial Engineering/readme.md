@@ -1,4 +1,5 @@
 Financial engineering
 ===
-Monte Carlo and Binary Tree method option pricing
+option pricing
 ---
+Monte Carlo, Binarytree, Explicit Finite Difference Method
