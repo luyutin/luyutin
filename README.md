@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am Louis Lu, major in economics and finance.
 - 🌱 I’m currently learning machine learning, data analysis and financial engineering.
-- This repository contains the projects that I had made before．
+- This repository contains the projects that I had made before.
 
 
 
